@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { MdSearch } from 'react-icons/md';
 
-
 import { Container, Logo, Title, Form, Input, Button } from './styles';
 import githubLogo from '../../assets/images/github-logo.svg';
 

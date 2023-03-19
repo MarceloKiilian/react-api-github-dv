@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "login": "MarceloKiilian",
+      "id": 11667697,
+      "node_id": "MDQ6VXNlcjExNjY3Njk3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11667697?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/MarceloKiilian",
+      "html_url": "https://github.com/MarceloKiilian",
+      "followers_url": "https://api.github.com/users/MarceloKiilian/followers",
+      "following_url": "https://api.github.com/users/MarceloKiilian/following{/other_user}",
+      "gists_url": "https://api.github.com/users/MarceloKiilian/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/MarceloKiilian/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/MarceloKiilian/subscriptions",
+      "organizations_url": "https://api.github.com/users/MarceloKiilian/orgs",
+      "repos_url": "https://api.github.com/users/MarceloKiilian/repos",
+      "events_url": "https://api.github.com/users/MarceloKiilian/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/MarceloKiilian/received_events",
+      "type": "User",
+      "site_admin": false,
+      "name": "Marcelo Kiilian Heinsberg",
+      "company": null,
+      "blog": "",
+      "location": null,
+      "email": null,
+      "hireable": null,
+      "bio": null,
+      "twitter_username": null,
+      "public_repos": 17,
+      "public_gists": 0,
+      "followers": 1,
+      "following": 1,
+      "created_at": "2015-03-26T16:45:24Z",
+      "updated_at": "2023-01-14T20:35:47Z"
+    }
+  ]
+}

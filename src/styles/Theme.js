@@ -38,10 +38,9 @@ const theme = {
     light: '#ecf0f1',
     dark: '#233240',
     background: '#191919',
-    container:'#2d2d2d',
+    container: '#2d2d2d',
     text: '#fff',
     link: '#3498db',
-
     // Brands
     devSamurai: '#f37272',
   },
@@ -53,7 +52,7 @@ const theme = {
     title: '1.3rem',
     subtitle: '1.25rem',
   },
-  breakpoints:{
+  breakpoints: {
     xs: '0',
     sm: '576px',
     md: '768px',

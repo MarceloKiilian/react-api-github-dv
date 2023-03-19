@@ -15,7 +15,6 @@ export const Name = styled.h3`
   font-weight: normal;
 `;
 
-
 export const Description = styled.p`
   font-size: ${(props) => props.theme.fontSizes.small};
   line-height: 1.25;

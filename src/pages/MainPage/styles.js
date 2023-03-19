@@ -30,7 +30,7 @@ export const Form = styled.div`
 
 export const Input = styled.input`
   background: rgba(0, 0, 0, 0.8);
-  width: 100%;1
+  width: 100%;
   height: 64px;
   line-height: 64px;
   border: none;
@@ -53,7 +53,6 @@ export const Button = styled(Link)`
   height: 64px;
   border: 3px solid ${(props) => props.theme.colors.text};
   transition: background 0.3s;
-  
   &:hover {
     background: ${(props) => props.theme.colors.container};
   }
